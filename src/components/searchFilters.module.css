@@ -1,0 +1,62 @@
+.container {
+  width: 100%;
+  max-width: 600px;
+  margin: 60px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.heading {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #eceaea;
+}
+
+.input {
+  padding: 12px;
+  width: 100%;
+  max-width: 400px;
+  font-size: 1rem;
+  border: 2px solid #7e57c2;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  outline: none;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.card {
+  background: #f9f9ff;
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 10px 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.04);
+  text-align: left;
+}
+
+.card strong {
+  display: block;
+  font-size: 1.1rem;
+  color: #4a148c;
+}
+
+.card span {
+  display: block;
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.card small {
+  display: block;
+  color: #999;
+}
+
+.noResult {
+  color: #cc0000;
+  font-weight: 500;
+}

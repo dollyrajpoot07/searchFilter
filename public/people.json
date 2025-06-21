@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Amit Sharma",
+        "email": "amit.sharma@example.com",
+        "city": "Delhi"
+    },
+    {
+        "id": 2,
+        "name": "Priya Singh",
+        "email": "priya.singh@example.com",
+        "city": "Mumbai"
+    },
+    {
+        "id": 3,
+        "name": "Rahul Verma",
+        "email": "rahul.verma@example.com",
+        "city": "Lucknow"
+    },
+    {
+        "id": 4,
+        "name": "Sneha Joshi",
+        "email": "sneha.joshi@example.com",
+        "city": "Pune"
+    },
+    {
+        "id": 5,
+        "name": "Karan Mehta",
+        "email": "karan.mehta@example.com",
+        "city": "Ahmedabad"
+    },
+    {
+        "id": 6,
+        "name": "Divya Patel",
+        "email": "divya.patel@example.com",
+        "city": "Surat"
+    },
+    {
+        "id": 7,
+        "name": "Rohit Nair",
+        "email": "rohit.nair@example.com",
+        "city": "Bangalore"
+    },
+    {
+        "id": 8,
+        "name": "Neha Iyer",
+        "email": "neha.iyer@example.com",
+        "city": "Chennai"
+    },
+    {
+        "id": 9,
+        "name": "Arjun Reddy",
+        "email": "arjun.reddy@example.com",
+        "city": "Hyderabad"
+    },
+    {
+        "id": 10,
+        "name": "Pooja Das",
+        "email": "pooja.das@example.com",
+        "city": "Kolkata"
+    },
+    {
+        "id": 11,
+        "name": "Deepak Kumar",
+        "email": "deepak.kumar@example.com",
+        "city": "Patna"
+    },
+    {
+        "id": 12,
+        "name": "Anjali Roy",
+        "email": "anjali.roy@example.com",
+        "city": "Ranchi"
+    },
+    {
+        "id": 13,
+        "name": "Siddharth Pandey",
+        "email": "sid.pandey@example.com",
+        "city": "Varanasi"
+    },
+    {
+        "id": 14,
+        "name": "Ritika Kapoor",
+        "email": "ritika.kapoor@example.com",
+        "city": "Chandigarh"
+    },
+    {
+        "id": 15,
+        "name": "Manish Jha",
+        "email": "manish.jha@example.com",
+        "city": "Guwahati"
+    },
+    {
+        "id": 16,
+        "name": "Kavita Sinha",
+        "email": "kavita.sinha@example.com",
+        "city": "Gurgaon"
+    },
+    {
+        "id": 17,
+        "name": "Harsh Vardhan",
+        "email": "harsh.v@example.com",
+        "city": "Noida"
+    },
+    {
+        "id": 18,
+        "name": "Meena Yadav",
+        "email": "meena.yadav@example.com",
+        "city": "Kanpur"
+    },
+    {
+        "id": 19,
+        "name": "Suresh Rao",
+        "email": "suresh.rao@example.com",
+        "city": "Vizag"
+    },
+    {
+        "id": 20,
+        "name": "Lavanya Menon",
+        "email": "lavanya.menon@example.com",
+        "city": "Trivandrum"
+    },
+    {
+        "id": 21,
+        "name": "Ankit Chauhan",
+        "email": "ankit.chauhan@example.com",
+        "city": "Indore"
+    },
+    {
+        "id": 22,
+        "name": "Radhika Pillai",
+        "email": "radhika.p@example.com",
+        "city": "Kochi"
+    },
+    {
+        "id": 23,
+        "name": "Akhil Anand",
+        "email": "akhil.anand@example.com",
+        "city": "Jodhpur"
+    },
+    {
+        "id": 24,
+        "name": "Shreya Mishra",
+        "email": "shreya.m@example.com",
+        "city": "Bhopal"
+    },
+    {
+        "id": 25,
+        "name": "Vikram Rana",
+        "email": "vikram.rana@example.com",
+        "city": "Jaipur"
+    },
+    {
+        "id": 26,
+        "name": "Bhavna Tripathi",
+        "email": "bhavna.t@example.com",
+        "city": "Agra"
+    },
+    {
+        "id": 27,
+        "name": "Rajeev Gupta",
+        "email": "rajeev.g@example.com",
+        "city": "Amritsar"
+    },
+    {
+        "id": 28,
+        "name": "Pallavi Sengupta",
+        "email": "pallavi.s@example.com",
+        "city": "Howrah"
+    },
+    {
+        "id": 29,
+        "name": "Tarun Bansal",
+        "email": "tarun.b@example.com",
+        "city": "Faridabad"
+    },
+    {
+        "id": 30,
+        "name": "Geeta Nanda",
+        "email": "geeta.n@example.com",
+        "city": "Rohtak"
+    },
+    {
+        "id": 31,
+        "name": "Rishi Awasthi",
+        "email": "rishi.a@example.com",
+        "city": "Aligarh"
+    },
+    {
+        "id": 32,
+        "name": "Payal Rani",
+        "email": "payal.r@example.com",
+        "city": "Bareilly"
+    },
+    {
+        "id": 33,
+        "name": "Sunil Chatterjee",
+        "email": "sunil.c@example.com",
+        "city": "Durgapur"
+    },
+    {
+        "id": 34,
+        "name": "Maya Naik",
+        "email": "maya.n@example.com",
+        "city": "Mangalore"
+    },
+    {
+        "id": 35,
+        "name": "Aditya Narayan",
+        "email": "aditya.n@example.com",
+        "city": "Nashik"
+    },
+    {
+        "id": 36,
+        "name": "Jaya Dev",
+        "email": "jaya.d@example.com",
+        "city": "Rajkot"
+    },
+    {
+        "id": 37,
+        "name": "Nitesh Dutta",
+        "email": "nitesh.d@example.com",
+        "city": "Gaya"
+    },
+    {
+        "id": 38,
+        "name": "Reena Bhatt",
+        "email": "reena.b@example.com",
+        "city": "Dehradun"
+    },
+    {
+        "id": 39,
+        "name": "Anurag Singh",
+        "email": "anurag.s@example.com",
+        "city": "Jammu"
+    },
+    {
+        "id": 40,
+        "name": "Smita Kulkarni",
+        "email": "smita.k@example.com",
+        "city": "Nagpur"
+    },
+    {
+        "id": 41,
+        "name": "Yash Khandelwal",
+        "email": "yash.k@example.com",
+        "city": "Ajmer"
+    },
+    {
+        "id": 42,
+        "name": "Sonal Jain",
+        "email": "sonal.jain@example.com",
+        "city": "Udaipur"
+    },
+    {
+        "id": 43,
+        "name": "Gaurav Bhatia",
+        "email": "gaurav.b@example.com",
+        "city": "Solapur"
+    },
+    {
+        "id": 44,
+        "name": "Charu Sehgal",
+        "email": "charu.s@example.com",
+        "city": "Panipat"
+    },
+    {
+        "id": 45,
+        "name": "Rani Dey",
+        "email": "rani.d@example.com",
+        "city": "Silchar"
+    },
+    {
+        "id": 46,
+        "name": "Imran Khan",
+        "email": "imran.k@example.com",
+        "city": "Srinagar"
+    },
+    {
+        "id": 47,
+        "name": "Pritam Sarkar",
+        "email": "pritam.s@example.com",
+        "city": "Dhanbad"
+    },
+    {
+        "id": 48,
+        "name": "Meghna Dubey",
+        "email": "meghna.d@example.com",
+        "city": "Bilaspur"
+    },
+    {
+        "id": 49,
+        "name": "Nikhil Raj",
+        "email": "nikhil.r@example.com",
+        "city": "Rewa"
+    },
+    {
+        "id": 50,
+        "name": "Asmita Ghosh",
+        "email": "asmita.g@example.com",
+        "city": "Asansol"
+    }
+]
